@@ -13,5 +13,5 @@ Discord.JS Yanıtlama özelliği
 
 <p>&nbsp;<img align="center" src="https://cdn.discordapp.com/attachments/798099800234393620/835489680187326524/unknown.png" alt="lyertia" /></p>
 
-###Yardım
+### Yardım
 - Bir sorun yaşarsanız discorddan ulaşabilirsiniz.
