@@ -11,7 +11,7 @@ Discord.JS Yanıtlama özelliği
 Örn: message.reply("Selam")
 
 
-<p>&nbsp;<img align="center" src="https://cdn.discordapp.com/attachments/814175416037408778/814175631587278905/unknown.png" alt="lyertia" /></p>
+<p>&nbsp;<img align="center" src="https://cdn.discordapp.com/attachments/798099800234393620/835489680187326524/unknown.png" alt="lyertia" /></p>
 
 ###Yardım
 - Bir sorun yaşarsanız discorddan ulaşabilirsiniz.
