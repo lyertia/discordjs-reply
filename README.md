@@ -15,4 +15,4 @@ Discord.JS Yanıtlama özelliği
 
 ### Yardım
 - Bir sorun yaşarsanız discorddan ulaşabilirsiniz.
-- 3. Satırda `reply` kısmını istediğiniz gibi değiştirebilirsiniz. Örneğin o kısmı `yanitla` yaparsanız message.yanitla() yaptığınız zaman, yanıtlama özelliği kullanılır.
+- Üçüncü Satırda `reply` kısmını istediğiniz gibi değiştirebilirsiniz. Örneğin o kısmı `yanitla` yaparsanız message.yanitla() yaptığınız zaman, yanıtlama özelliği kullanılır.
